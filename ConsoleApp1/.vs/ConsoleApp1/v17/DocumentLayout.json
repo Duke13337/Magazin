@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\studentcoll\\desktop\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\studentcoll\\desktop\\consoleapp1\\consoleapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\studentcoll\\desktop\\consoleapp1\\consoleapp1\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\studentcoll\\desktop\\consoleapp1\\consoleapp1\\services\\ishopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\services\\ishopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\studentcoll\\desktop\\consoleapp1\\consoleapp1\\services\\shopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\services\\shopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\studentcoll\\desktop\\consoleapp1\\consoleapp1\\tools\\shopsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\tools\\shopsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\studentcoll\\desktop\\consoleapp1\\consoleapp1\\processors\\paypalprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\processors\\paypalprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\studentcoll\\desktop\\consoleapp1\\consoleapp1\\processors\\creditcardprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\processors\\creditcardprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\studentcoll\\desktop\\consoleapp1\\consoleapp1\\processors\\cryptocurrencyprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\processors\\cryptocurrencyprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\studentcoll\\desktop\\consoleapp1\\consoleapp1\\interfaces\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\studentcoll\\desktop\\consoleapp1\\consoleapp1\\interfaces\\ipaymentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces\\ipaymentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\studentcoll\\desktop\\consoleapp1\\consoleapp1\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE6F4A-2CE3-48FE-A096-B56A9EFAB9E6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPaymentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Interfaces\\IPaymentValidator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces\\IPaymentValidator.cs",
+              "ToolTip": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Interfaces\\IPaymentValidator.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interfaces\\IPaymentValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:13:23.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Interfaces\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces\\IPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Interfaces\\IPaymentProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interfaces\\IPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:13:05.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CryptoCurrencyProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Processors\\CryptoCurrencyProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Processors\\CryptoCurrencyProcessor.cs",
+              "ToolTip": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Processors\\CryptoCurrencyProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\Processors\\CryptoCurrencyProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:08:55.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreditCardProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Processors\\CreditCardProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Processors\\CreditCardProcessor.cs",
+              "ToolTip": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Processors\\CreditCardProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\Processors\\CreditCardProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:08:40.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PayPalProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Processors\\PayPalProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Processors\\PayPalProcessor.cs",
+              "ToolTip": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Processors\\PayPalProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\Processors\\PayPalProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:07:44.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:02:08.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopsException.cs",
+              "DocumentMoniker": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Tools\\ShopsException.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Tools\\ShopsException.cs",
+              "ToolTip": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Tools\\ShopsException.cs",
+              "RelativeToolTip": "ConsoleApp1\\Tools\\ShopsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:00:41.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopService.cs",
+              "DocumentMoniker": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Services\\ShopService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Services\\ShopService.cs",
+              "ToolTip": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Services\\ShopService.cs",
+              "RelativeToolTip": "ConsoleApp1\\Services\\ShopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:00:19.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IShopService.cs",
+              "DocumentMoniker": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Services\\IShopService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Services\\IShopService.cs",
+              "ToolTip": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Services\\IShopService.cs",
+              "RelativeToolTip": "ConsoleApp1\\Services\\IShopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:59:51.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Models\\Shop.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Shop.cs",
+              "ToolTip": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Models\\Shop.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:59:10.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Models\\Product.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:58:41.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Models\\Buyer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Buyer.cs",
+              "ToolTip": "C:\\Users\\studentcoll\\Desktop\\ConsoleApp1\\ConsoleApp1\\Models\\Buyer.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Buyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:51:57.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
